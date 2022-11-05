@@ -1,6 +1,6 @@
 # Lincoln's Robot Car
 
-Don't build this. This is intended as a platform for my son to enjoy and an exercise for myself to see if I could make it. I am putting it up to allow anyone to support and expand the existing building.  It could be useful to harvest components for other projects but the existing build is full of design decisions based on what parts I had available and what I was interested in modeling.  Much better and less complicated designs are available and I recommend using those if you are interested in an RC car or robot.  
+Don't build this. This is intended as a platform for my son to enjoy and an exercise for myself to see if I could make it. I am putting it up to allow anyone to support and expand the existing build.  It could be useful to harvest components for other projects but the existing build is full of design decisions based on what parts I had available and what I was interested in modeling.  Much better and less complicated designs are available and I recommend using those if you are interested in an RC car or robot.  
 
 ## Files
 The build includes 2 Autodesk Fusion 360 models.  One contains the bulk of the build while the other just contains the gears which are represented as placeholders in the main model due to model recalculation overhead.  An additional python script is included in the build which runs on Raspbian and requires the evdev library.  Reference the files for the pins used and their functions.
@@ -19,14 +19,14 @@ The assembly starts with the gearbox and gets somewhat complicated due to the he
 
 ## Missing
 Not depicted in the model:
-Some bearings
-All nuts and bolts (all m3, m4, or m5)
-Wiring
-3v relay
-Headlight COB LED
-Voltage regulators
-Battery and socket
-Pi
+- Some bearings
+- All nuts and bolts (all m3, m4, or m5)
+- Wiring
+- 3v relay
+- Headlight COB LED
+- Voltage regulators
+- Battery and socket
+- Pi
 
 
 
